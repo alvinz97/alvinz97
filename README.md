@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<p align="center" style="border: 2px solid #000">
+<p align="center" style="border: 2px; border-color: #000">
   <a href="https://github.com/alvinz97" class="rich-diff-level-one">
     <img src="https://github-readme-stats.vercel.app/api?username=alvinz97&show_icons=true&hide_border=true" alt="Rusiru Ashan Kulathunga's Stats" >
   </a>
@@ -42,7 +42,7 @@ Here are some ideas to get you started:
     <img src="https://img.icons8.com/ios-filled/256/000000/twitter.svg" width="26px"/>
   </a>
   <br><br>
-  <strong>Guys, Check out my work below!</strong>
+  <strong>Guys, Check out my works below!</strong>
   <br><br>
   <a href="http://rusiruofficial.com">
     <img src="https://img.icons8.com/fluent/50/000000/domain.png">
