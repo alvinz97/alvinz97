@@ -23,28 +23,28 @@ Here are some ideas to get you started:
 
 <p align="center">
   <a href= "https://www.instagram.com/alvinz97/">
-    <img src="https://img.icons8.com/ios-glyphs/256/000000/instagram-new.svg" width="28px"/>
+    <img src="https://img.icons8.com/ios-glyphs/256/000000/instagram-new.svg" width="28px" alt="Rusiru Ashan Kulathunga's Instagram Account" />
   </a>
   &emsp;
   <a href="http://rusiruofficial.com/">
-    <img src="https://img.icons8.com/material/256/000000/globe--v1.png" width="28px"/>
+    <img src="https://img.icons8.com/material/256/000000/globe--v1.png" width="28px" alt="Rusiru Ashan Kulathunga's Official website" />
   </a>
   &emsp;
   <a href="https://www.linkedin.com/in/rusiru-kulathunga-86033817a/">
-    <img src="https://img.icons8.com/ios-filled/256/000000/linkedin.svg" width="26px"/>
+    <img src="https://img.icons8.com/ios-filled/256/000000/linkedin.svg" width="26px" alt="Rusiru Ashan Kulathunga's linkedIn Account" />
   </a>
    &emsp;
   <a href="https://www.facebook.com/rusiru.alvin97">
-    <img src="https://img.icons8.com/ios-filled/50/000000/facebook-new.png" width="26px"/>
+    <img src="https://img.icons8.com/ios-filled/50/000000/facebook-new.png" width="26px" alt="Rusiru Ashan Kulathunga's Facebook Account" />
   </a>
   &emsp;
   <a href="https://twitter.com/Alvinz_97">
-    <img src="https://img.icons8.com/ios-filled/256/000000/twitter.svg" width="26px"/>
+    <img src="https://img.icons8.com/ios-filled/256/000000/twitter.svg" width="26px" alt="Rusiru Ashan Kulathunga's Twitter Account" />
   </a>
   <br><br>
   <strong>Guys, Check out my works below!</strong>
   <br><br>
   <a href="http://rusiruofficial.com">
-    <img src="https://img.icons8.com/fluent/50/000000/domain.png">
+    <img src="https://img.icons8.com/fluent/50/000000/domain.png" alt="Rusiru Ashan Kulathunga's Official website" >
   </a>
 </p>
