@@ -1,4 +1,4 @@
-### Hi there. Welcome to my account 👋
+### Hey there. Welcome to my account 👋
 
 <!--
 **alvinz97/alvinz97** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
