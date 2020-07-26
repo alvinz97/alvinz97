@@ -22,8 +22,9 @@ Here are some ideas to get you started:
 ---
 
 I am Rusiru Ashan Kulathunga and I'm a Bs.c Software Engineer and 3 years working experience with website design, web programming, with HTML, AJAX PHP, Android Studio.
-</p>
+
 ---
+</p>
 
 <p align="center" style="border: 2px; border-color: #000">
 
@@ -60,6 +61,6 @@ I am Rusiru Ashan Kulathunga and I'm a Bs.c Software Engineer and 3 years workin
   <a href="http://rusiruofficial.com" target="_blank">
     <img src="https://img.icons8.com/fluent/50/000000/domain.png" alt="Rusiru Ashan Kulathunga's Official website" >
   </a>
-</p>
 ---
+</p>
 
