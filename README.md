@@ -15,15 +15,17 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<p align="center" style="border: 2px; border-color: #000">
+<p align="center">
 
   <img src="https://raw.githubusercontent.com/alvinz97/alvinz97/master/banner.png" alt="banner that says Rusiru Kulathunga - Software Engineer, Freelancer, Designer and Blogger alongside a cartoon illustration of Rusiru Kulathunga ">
 
 ---
 
 I am Rusiru Ashan Kulathunga and I'm a Bs.c Software Engineer and 3 years working experience with website design, web programming, with HTML, AJAX PHP, Android Studio.
-
+</p>
 ---
+
+<p align="center" style="border: 2px; border-color: #000">
 
   <a href="https://github.com/alvinz97" class="rich-diff-level-one">
     <img src="https://github-readme-stats.vercel.app/api?username=alvinz97&show_icons=true&hide_border=true" alt="Rusiru Ashan Kulathunga's Stats" >
@@ -59,3 +61,5 @@ I am Rusiru Ashan Kulathunga and I'm a Bs.c Software Engineer and 3 years workin
     <img src="https://img.icons8.com/fluent/50/000000/domain.png" alt="Rusiru Ashan Kulathunga's Official website" >
   </a>
 </p>
+---
+
