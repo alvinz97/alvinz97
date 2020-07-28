@@ -21,7 +21,7 @@ Here are some ideas to get you started:
 
 ---
 
-### I am Rusiru Ashan Kulathunga and I'm a Bs.c Software Engineer and 3 years working experience with Website Design, Web Programming, Android Applications with HTML, AJAX, PHP, Android Studio.
+### I am Rusiru Ashan Kulathunga and I'm a undergraduate Bs.c Software Engineer and 3 years working experience with Website Design, Web Programming, Android Applications with HTML, AJAX, PHP, Android Studio.
 ---
 </p>
 
