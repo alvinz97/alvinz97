@@ -29,7 +29,11 @@ I am Rusiru Ashan Kulathunga and I'm a Bs.c Software Engineer and 3 years workin
 <p align="center" style="border: 2px; border-color: #000">
 
   <a href="https://github.com/alvinz97" class="rich-diff-level-one">
-    <img src="https://github-readme-stats.vercel.app/api?username=alvinz97&show_icons=true&hide_border=true" alt="Rusiru Ashan Kulathunga's Stats" >
+    <img src="https://github-readme-stats.anuraghazra1.vercel.app/api?username=alvinz97&show_icons=true&include_all_commits=true&theme=radical" alt="Rusiru Ashan Kulathunga's Stats" >
+  </a>
+
+  <a href="https://github.com/alvinz97" class="rich-diff-level-one">
+    <img src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=alvinz97&layout=compact&theme=radical" alt="Rusiru Ashan Kulathunga's Language Usage" >
   </a>
 
 ---
