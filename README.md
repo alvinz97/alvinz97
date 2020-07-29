@@ -1,4 +1,4 @@
-### Hey there. Welcome to my account 👋
+# Hey there. Welcome to my account 👋
 
 <!--
 **alvinz97/alvinz97** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -21,10 +21,10 @@ Here are some ideas to get you started:
 
 ---
 
-I am Rusiru Ashan Kulathunga and I'm a Bs.c Software Engineer and 3 years working experience with website design, web programming, with HTML, AJAX, PHP, Android Studio.
-
+### I am Rusiru Ashan Kulathunga and I'm a undergraduate Bs.c Software Engineer and 3 years working experience with Website Design, Web Programming, Android Applications with HTML, AJAX, PHP, Android Studio.
 ---
 </p>
+
 
 <p align="center" style="border: 2px; border-color: #000">
 
