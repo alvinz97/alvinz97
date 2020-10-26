@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 
 <p align="center">
 
-  <img src="https://raw.githubusercontent.com/alvinz97/alvinz97/master/banner.png" alt="banner that says Rusiru Kulathunga - Software Engineer, Freelancer, Designer and Blogger alongside a cartoon illustration of Rusiru Kulathunga ">
+  <img src="https://raw.githubusercontent.com/alvinz97/alvinz97/master/banner_new.png" alt="banner that says Rusiru Kulathunga - Software Engineer, Freelancer, Designer and Blogger alongside a cartoon illustration of Rusiru Kulathunga ">
 
 ---
 
