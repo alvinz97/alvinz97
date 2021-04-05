@@ -1,9 +1,7 @@
 <h1 align="center">Hey there. Welcome back! 👋</h1>
 
-<span align="center">
 [![GitHub followers](https://img.shields.io/github/followers/alvinz97?logo=GitHub&style=for-the-badge)][github]
 [![Linkedin: JohannesMilke](https://img.shields.io/badge/-CONNECT-blue?style=for-the-badge&logo=Linkedin&link=https://www.linkedin.com/in/rusiru-kulathunga/)][linkedin]
-</span>
 
 <p align="center">
 
@@ -31,7 +29,6 @@
 
 ---
 ## Languages and Tools:
-<span align="center">
 ![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)
 ![Nodejs](https://img.shields.io/badge/-Nodejs-black?style=flat-square&logo=Node.js)
 ![React](https://img.shields.io/badge/-React-black?style=flat-square&logo=react)
@@ -46,7 +43,6 @@
 ![Google Cloud](https://img.shields.io/badge/Google%20Cloud-black?style=flat-square&logo=google-cloud)
 ![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git)
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github)
-</span>
 
 ---
 
