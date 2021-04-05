@@ -2,9 +2,14 @@
 
 
 <p align="center">
+  <img src="https://img.shields.io/github/forks/alvinz97/StrapDown.js.svg?style=social&label=Fork&maxAge=2592000" alt="">
+  <img src="https://img.shields.io/github/stars/alvinz97/StrapDown.js.svg?style=social&label=Star&maxAge=2592000" alt="">
   <img src="https://img.shields.io/github/followers/alvinz97?logo=GitHub&style=for-the-badge" alt="">
   <img src="https://img.shields.io/badge/-CONNECT-blue?style=for-the-badge&logo=Linkedin&link=https://www.linkedin.com/in/rusiru-kulathunga/" alt="">
 </p>
+
+[![GitHub forks]()](https://GitHub.com/Naereen/StrapDown.js/network/)
+
 
 <p align="center">
 
@@ -20,7 +25,7 @@
 <p align="center" style="border: 2px; border-color: #000">
 
   <a href="https://github.com/alvinz97" class="rich-diff-level-one">
-    <img src="https://github-readme-stats.anuraghazra1.vercel.app/api?username=alvinz97&show_icons=true&include_all_commits=true&theme=radical" alt="Rusiru Ashan Kulathunga's Stats" >
+    <img src="https://github-readme-stats.vercel.app/api?username=alvinz97&theme=blue-green&show_icons=true&include_all_commits=true&theme=radical" alt="Rusiru Ashan Kulathunga's Stats" >
   </a>
 
   <a href="https://github.com/alvinz97" class="rich-diff-level-one">
