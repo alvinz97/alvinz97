@@ -2,8 +2,8 @@
 
 
 <p align="center">
-  <img src="https://img.shields.io/github/forks/alvinz97/StrapDown.js.svg?style=social&label=Fork&maxAge=2592000" alt="">
-  <img src="https://img.shields.io/github/stars/alvinz97/StrapDown.js.svg?style=social&label=Star&maxAge=2592000" alt="">
+  <a href=""> <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt=""></a>
+  <a href=""> <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt=""></a>
   <img src="https://img.shields.io/github/followers/alvinz97?logo=GitHub&style=for-the-badge" alt="">
   <img src="https://img.shields.io/badge/-CONNECT-blue?style=for-the-badge&logo=Linkedin&link=https://www.linkedin.com/in/rusiru-kulathunga/" alt="">
 </p>
@@ -33,8 +33,9 @@
   </a>
 
   <a href="https://github.com/alvinz97" class="rich-diff-level-one">
-      <img src="https://github-readme-streak-stats.herokuapp.com/?user=alvinz97&theme=blue-green" alt="Rusiru Ashan Kulathunga's Language Usage" >
-    </a>
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=alvinz97&theme=blue-green" alt="Rusiru Ashan Kulathunga's Language Usage" >
+  </a>
+
 ---
 </p>
 
@@ -54,6 +55,9 @@
   <img src="https://img.shields.io/badge/Google%20Cloud-black?style=flat-square&logo=google-cloud" alt="">
   <img src="https://img.shields.io/badge/-Git-black?style=flat-square&logo=git" alt="">
   <img src="https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github" alt="">
+  <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white" alt="">
+  <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" alt="">
+  <img src="https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vue.js&logoColor=4FC08D" alt="">
 
 </p>
 
