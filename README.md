@@ -2,8 +2,8 @@
 
 
 <p align="center">
-  <a href=""> <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt=""></a>
-  <a href=""> <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt=""></a>
+  <a href="https://wa.me/94786794814"> <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt=""></a>
+  <a href="https://www.facebook.com/rusiru.alvin97"> <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt=""></a>
   <img src="https://img.shields.io/github/followers/alvinz97?logo=GitHub&style=for-the-badge" alt="">
   <img src="https://img.shields.io/badge/-CONNECT-blue?style=for-the-badge&logo=Linkedin&link=https://www.linkedin.com/in/rusiru-kulathunga/" alt="">
 </p>
