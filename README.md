@@ -1,7 +1,8 @@
 <h1 align="center">Hey there. Welcome back! 👋</h1>
 
-[![GitHub followers](https://img.shields.io/github/followers/alvinz97?logo=GitHub&style=for-the-badge)][github]
-[![Linkedin: RusiruKulathunga](https://img.shields.io/badge/-CONNECT-blue?style=for-the-badge&logo=Linkedin&link=https://www.linkedin.com/in/rusiru-kulathunga/)][linkedin]
+
+<img src="https://img.shields.io/github/followers/alvinz97?logo=GitHub&style=for-the-badge" alt="">
+<img src="https://img.shields.io/badge/-CONNECT-blue?style=for-the-badge&logo=Linkedin&link=https://www.linkedin.com/in/rusiru-kulathunga/" alt="">
 
 <p align="center">
 
@@ -26,10 +27,6 @@
 
 ---
 </p>
-
-### Now Playing On Spotify 🎧
-
-[<img src="https://now-playing-codestackr.vercel.app/api/spotify-playing" alt="Spotify Playing" width="350" />](https://open.spotify.com/user/tzr7eqn3iq91um1mlpu4jgpzg)
 
 ---
 ## Languages and Tools:
