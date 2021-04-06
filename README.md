@@ -2,8 +2,18 @@
 
 
 <p align="center">
-  <a href="https://wa.me/94786794814"> <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt=""></a>
-  <a href="https://www.facebook.com/rusiru.alvin97"> <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt=""></a>
+  <a href="https://wa.me/94786794814"> 
+    <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="">
+  </a>
+  <a href="https://www.facebook.com/rusiru.alvin97"> 
+    <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="">
+  </a>
+  <a href="https://twitter.com/alvin___97">
+    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="">
+  </a>
+  <a href="https://www.instagram.com/alvinz97/">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="">
+  </a>
   <img src="https://img.shields.io/github/followers/alvinz97?logo=GitHub&style=for-the-badge" alt="">
   <img src="https://img.shields.io/badge/-CONNECT-blue?style=for-the-badge&logo=Linkedin&link=https://www.linkedin.com/in/rusiru-kulathunga/" alt="">
 </p>
@@ -69,25 +79,6 @@
 ---
 
 <p align="center">
-  <a href= "https://www.instagram.com/alvinz97/" target="_blank">
-    <img src="https://img.icons8.com/ios-glyphs/256/000000/instagram-new.svg" width="28px" alt="Rusiru Ashan Kulathunga's Instagram Account" />
-  </a>
-  &emsp;
-  <a href="http://rusiruofficial.com/" target="_blank">
-    <img src="https://img.icons8.com/material/256/000000/globe--v1.png" width="28px" alt="Rusiru Ashan Kulathunga's Official website" />
-  </a>
-  &emsp;
-  <a href="https://www.linkedin.com/in/rusiru-kulathunga-86033817a/" target="_blank">
-    <img src="https://img.icons8.com/ios-filled/256/000000/linkedin.svg" width="26px" alt="Rusiru Ashan Kulathunga's linkedIn Account" />
-  </a>
-   &emsp;
-  <a href="https://www.facebook.com/rusiru.alvin97" target="_blank">
-    <img src="https://img.icons8.com/ios-filled/50/000000/facebook-new.png" width="26px" alt="Rusiru Ashan Kulathunga's Facebook Account" />
-  </a>
-  &emsp;
-  <a href="https://twitter.com/alvin___97" target="_blank">
-    <img src="https://img.icons8.com/ios-filled/256/000000/twitter.svg" width="26px" alt="Rusiru Ashan Kulathunga's Twitter Account" />
-  </a>
   <br><br>
   <strong>Guys, Check out my works below!</strong>
   <br><br>
