@@ -42,7 +42,7 @@
   </a>
 
   <a href="https://github.com/alvinz97" class="rich-diff-level-one">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=alvinz97&theme=blue-green" alt="Rusiru Ashan Kulathunga's Language Usage" >
+    <img src="http://github-readme-streak-stats.herokuapp.com?user=alvinz97&theme=dark-smoky&hide_border=true" alt="Rusiru Ashan Kulathunga's Language Usage" >
   </a>
 
 ---
