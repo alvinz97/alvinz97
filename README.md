@@ -19,7 +19,7 @@
 </p>
 
 <p align="center">
-<img src="https://visitor-badge.glitch.me/badge?page_id=alvinz97" alt="">
+<img src="http://estruyf-github.azurewebsites.net/api/VisitorHit?user=alvinz97&repo=alvinz97-visitors-badge&countColorcountColor&countColor=%237B1E7A" alt="">
 <img src="https://img.shields.io/github/followers/alvinz97?logo=GitHub&style=for-the-badge" alt="">
 </p>
 
