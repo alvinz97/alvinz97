@@ -15,7 +15,12 @@
     <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="">
   </a>
   <img src="https://img.shields.io/badge/-CONNECT-blue?style=for-the-badge&logo=Linkedin&link=https://www.linkedin.com/in/rusiru-kulathunga/" alt="">
-  <img src="https://img.shields.io/github/followers/alvinz97?logo=GitHub&style=for-the-badge" alt="">
+  
+</p>
+
+<p align="center">
+<img src="https://visitor-badge.glitch.me/badge?page_id=alvinz97" alt="">
+<img src="https://img.shields.io/github/followers/alvinz97?logo=GitHub&style=for-the-badge" alt="">
 </p>
 
 
@@ -34,7 +39,7 @@
 <p align="center" style="border: 2px; border-color: #000">
 
   <a href="https://github.com/alvinz97" class="rich-diff-level-one">
-    <img src="https://github-readme-stats.anuraghazra1.vercel.app/api?username=alvinz97&show_icons=true&include_all_commits=true&theme=radical" alt="Rusiru Ashan Kulathunga's Stats" >
+    <img src="https://github-readme-stats.anuraghazra1.vercel.app/api?username=alvinz97&show_icons=true&include_all_commits=true&theme=radical&count_private=true" alt="Rusiru Ashan Kulathunga's Stats" >
   </a>
 
   <a href="https://github.com/alvinz97" class="rich-diff-level-one">
