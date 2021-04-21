@@ -15,7 +15,7 @@
     <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="">
   </a>
   <a href="https://www.linkedin.com/in/rusiru-kulathunga/">
-    <img src="https://img.shields.io/badge/-CONNECT-blue?style=for-the-badge&logo=Linkedin" alt="">
+    <img src="https://img.shields.io/badge/-Linkedin-blue?style=for-the-badge&logo=Linkedin" alt="">
   </a>
 </p>
 
