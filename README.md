@@ -32,10 +32,6 @@
 
 ---
 
-### I am Rusiru Ashan Kulathunga and I'm a undergraduate Bs.c Software Engineer and 3 years working experience with Website Design, Web Programming, Android Applications with HTML, AJAX, PHP, Android Studio.
----
-</p>
-
 
 <p align="center" style="border: 2px; border-color: #000">
 
